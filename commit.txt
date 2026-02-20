@@ -1,0 +1,1 @@
+Le commit enregistre de manière permanente l'état actuel de vos fichiers modifiés dans l'historique local du projet. Chaque validation crée un point de restauration unique identifié par un code (SHA-1) auquel vous pouvez revenir à tout moment. Il ne prend en compte que les modifications préalablement ajoutées à la zone de transit avec la commande git add.
