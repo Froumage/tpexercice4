@@ -1,0 +1,1 @@
+Le rôle de git add est simplement de sélectionner vos fichiers modifiés et de les placer dans une zone d'attente (staging area) pour préparer votre prochaine sauvegarde (git commit).
