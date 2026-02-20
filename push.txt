@@ -1,0 +1,6 @@
+git push : Le pont entre votre ordinateur et le reste de l'équipe
+Pour bien comprendre le concept de git push, imaginez que vous êtes en train d'écrire un article sur votre ordinateur.
+
+L'ordinateur local (Le brouillon) : Lorsque vous utilisez git add et git commit, vous enregistrez l'évolution de votre article en toute sécurité, mais uniquement sur votre machine locale. À ce stade, le travail existe, mais il est confiné chez vous ; personne d'autre ne peut le voir ni y accéder.
+
+Le git push (La mise en ligne) : C'est l'équivalent du bouton "Publier" ou "Envoyer vers le cloud". Cette commande prend tous les paquets (commits) que vous avez créés localement et les expédie vers le dépôt distant (un serveur web comme GitHub ou GitLab).
